@@ -1,6 +1,6 @@
 **About Me!**
 
-- 👨🏽‍💻  I’m currently intern Full-Stack Developer at Xsys
+- 👨🏽‍💻  I’m currently intern Full-Stack Developer at Xsys Solutions
 - 🌱 I’m currently developing .NET Core projects and AngularTS projects making API with C#
 - 🤔 My interest lies in back-end Development, front-end Development, Data Science and Games Development
 
